@@ -1,0 +1,16 @@
+.topbar{
+    background-color: rgb(9, 218, 103);
+}
+
+#navbarSupportedContent{
+
+padding: 25px;
+
+}
+
+.ftr{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
